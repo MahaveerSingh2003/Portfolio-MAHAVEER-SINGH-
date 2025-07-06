@@ -20,8 +20,8 @@ const education = [
   {
     degree: 'B.Tech (CSE)',
     institution: 'Bikaner Technical University',
-    year: 'Current',
-    score: '9.03 CGPA',
+    year: '2025',
+    score: '9.18 CGPA',
   },
   {
     degree: 'Class XII',
