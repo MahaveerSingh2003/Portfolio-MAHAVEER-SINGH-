@@ -25,12 +25,7 @@ const projects = [
     tech: 'MERN Stack, Python, NLP, React.js',
     github: 'https://github.com/MahaveerSingh2003/Colllege_enquiry_chatbot'
   },
-  {
-    title: 'Database Management System',
-    description: 'Real-time database project built using MongoDB, React.js, Node.js, and Express.js. Implemented full CRUD functionality with modern UI/UX design.',
-    tech: 'MongoDB, Express.js, React.js, Node.js',
-    github: 'https://github.com/MahaveerSingh2003'
-  },
+  
   {
     title: 'Website Design',
     description: 'Developed a responsive local website showcasing modern web development practices and user-centric design principles.',
