@@ -23,7 +23,7 @@ const About = () => {
         </Typography>
         <AboutContent elevation={3}>
           <Typography variant="body1" paragraph>
-            I am a passionate MERN Stack Developer with a strong foundation in computer science, currently pursuing my B.Tech in Computer Science Engineering at Bikaner Technical University with a CGPA of 9.03.
+            I am a passionate MERN Stack Developer with a strong foundation in computer science, currently pursuing my B.Tech in Computer Science Engineering at Bikaner Technical University with a CGPA of 9.18.
           </Typography>
           <Typography variant="body1" paragraph>
             My expertise lies in developing full-stack web applications using MongoDB, Express.js, React.js, and Node.js. I have hands-on experience with Python, C/C++, and database management systems, which I've applied in various projects and internships.
